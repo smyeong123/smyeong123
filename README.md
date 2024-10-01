@@ -32,7 +32,7 @@ I love programming and I love Java.
 
 ### Contact me:
 
-- Email: [![Email](https://img.shields.io/badge/albert.abdilim@foxmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sangmyeonglee123@gmail.com)
+- Email: [![Email](https://img.shields.io/badge/sangmyeonglee123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sangmyeonglee123@gmail.com)
 
 ### My GitHub Stats
 
