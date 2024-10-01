@@ -35,4 +35,4 @@ I love programming and I love Java.
 
 ![Smyeong123's github stats](https://github-readme-stats.vercel.app/api?username=smyeong123&show_icons=true)
 
-⭐️ From [L1cardo](https://github.com/smyeong123)
+⭐️ From [smyeong](https://github.com/smyeong123)
