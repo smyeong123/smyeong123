@@ -1,3 +1,6 @@
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
+<br><br>
+
 ## Hey 👋, I'm Scott Lee
 
 Hi there, I'm **Scott(Sangmyeong) Lee**, a **computer science and software development student**.
@@ -10,7 +13,7 @@ I love programming and I love Java.
 
 - 👨🏽‍💻 I’m currently looking for a job in BE area; 
 - 🤔 My interests are with Spring and PostgreSQL, AI in engineering, Python etc..;
-- 💼 I’m graduated at July 2024;
+- 💼 I graduated at July 2024;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
