@@ -5,15 +5,16 @@
 
 Hi there, I'm **Scott(Sangmyeong) Lee**, a **computer science and software development student**.
 
-I am Korean. I just graduated at **[The University of Sydney](https://www.sydney.edu.au/)**.
+### 💡About me
+I am Korean. I just graduated at **[The University of Sydney](https://www.sydney.edu.au/)**. 
 
-I love programming and I love Python, Java.
+I love programming and I am learning Spring Framework for my personal project.
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently looking for a job in BE area; 
+- 👨🏽‍💻 I’m currently looking for a job in Back-End; 
 - 🤔 My interests are with Spring and PostgreSQL, AI in engineering, Python etc..;
-- 💼 I graduated at July 2024;
+- 💼 I have done Front-End Internship at LinkCloud and graduated at July 2024;
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email me if you have any questions.
 
