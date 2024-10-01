@@ -7,7 +7,7 @@ Hi there, I'm **Scott(Sangmyeong) Lee**, a **computer science and software devel
 
 I am Korean. I just graduated at **[The University of Sydney](https://www.sydney.edu.au/)**.
 
-I love programming and I love Java.
+I love programming and I love Python, Java.
 
 ### Talking about Personal Stuffs:
 
@@ -24,6 +24,7 @@ I love programming and I love Java.
 ![JavaFx](https://img.shields.io/badge/javafx-%23FF0000.svg?style=flat-square&logo=javafx&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat-square&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
@@ -36,6 +37,10 @@ I love programming and I love Java.
 
 ### My GitHub Stats
 
-![Smyeong123's github stats](https://github-readme-stats.vercel.app/api?username=smyeong123&show_icons=true)
+![Smyeong123's github stats](https://github-readme-stats.vercel.app/api?username=smyeong123&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+<br><br>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smyeong123&layout=donut&size_weight=0.5&count_weight=0.53&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 
 ⭐️ From [smyeong](https://github.com/smyeong123)
