@@ -6,7 +6,7 @@
 Hi there, I'm **Scott(Sangmyeong) Lee**, a **computer science and software development student**.
 
 ### 💡About me
-I am Korean. I just graduated at <a href="https://github.com/fan2goa1/best-of-usyd" title="best of USYD"><img alt="best of USYD" src="https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/fan2goa1/best-of-usyd/main/assets/badge/v1.json"></a> .
+I am Korean. I just graduated at The University of Sydney.
 I love programming and I am learning Spring Framework for my personal project.
 
 ### Talking about Personal Stuffs:
