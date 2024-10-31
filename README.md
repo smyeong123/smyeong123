@@ -38,10 +38,11 @@ I love programming and I am learning Spring Framework for my personal project.
 
 ### My GitHub Stats
 
-![Smyeong123's github stats](https://github-readme-stats.vercel.app/api?username=smyeong123&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
-<br><br>
+<div style="display: flex; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=smyeong123&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Smyeong123's GitHub Stats" style="height: 200px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smyeong123&layout=donut&size_weight=0.5&count_weight=0.53&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515" alt="Top Langs" style="height: 200px;"/>
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smyeong123&layout=donut&size_weight=0.5&count_weight=0.53&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
 ⭐️ From [smyeong](https://github.com/smyeong123)
