@@ -4,18 +4,18 @@
 
 ## Hey 👋, I'm Scott Lee
 
-Hi there, I'm **Scott(Sangmyeong) Lee**, a **computer science and software development student**.
+Hi there, I'm **Scott (Sangmyeong) Lee**, a **computer science and software development graduate**. 
 
 ### 💡About me
-I am Korean. I just graduated at The University of Sydney.
-I love programming and I am learning Spring Framework for my personal project.
+I am The University of Sydney graduate originated from South Korea.
+I am learning Spring Framework for my personal project and Tensorflow library for AI studies.
 
 ### Talking about Personal Stuffs:
 
-- 👨🏽‍💻 I’m currently looking for a job in Back-End; 
-- 🤔 My interests are with Spring and PostgreSQL, AI in engineering, Python etc..;
+- 👨🏽‍💻 I’m currently looking for a job in Back-End/AI; 
+- 🤔 My interests are with Spring and PostgreSQL/MySQL, Tensorflow for AI training;
 - 💼 I have done Front-End Internship at LinkCloud and graduated at July 2024;
-- 💬 Ask me about anything, I am happy to help;
+- 💬 Ask me about anything, I am willing to contribute for open source;
 - 📫 Please email me if you have any questions.
 
 ### Languages and Tools:
