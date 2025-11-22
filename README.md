@@ -2,21 +2,7 @@
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500" >
 </p>
 
-## Hey 👋, I'm Scott Lee
-
-Hi there, I'm **Scott (Sangmyeong) Lee**, a **computer science and software development graduate**. 
-
-### 💡About me
-I am The University of Sydney graduate originated from South Korea.
-I am learning Spring Framework for my personal project and Tensorflow library for AI studies.
-
-### Talking about Personal Stuffs:
-
-- 👨🏽‍💻 I’m currently looking for a job in Back-End/AI; 
-- 🤔 My interests are with Spring and PostgreSQL/MySQL, Tensorflow for AI training;
-- 💼 I have done Front-End Internship at LinkCloud and graduated at July 2024;
-- 💬 Ask me about anything, I am willing to contribute for open source;
-- 📫 Please email me if you have any questions.
+## Hey 👋, I'm Sangmyeong (Scott) Lee
 
 ### Languages and Tools:
 
@@ -30,12 +16,12 @@ I am learning Spring Framework for my personal project and Tensorflow library fo
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)
 
 ### Contact me:
 
 - Email: [![Email](https://img.shields.io/badge/sangmyeonglee123@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:sangmyeonglee123@gmail.com)
-- Student Email: [![Email](https://img.shields.io/badge/slee4736@uni.sydney.edu.au-D14836?style=flat-square&logo=outlook&logoColor=white)](mailto:slee4736@uni.sydney.edu.au)
+- <del>Student Email</del> (graduated 2024): [![Email](https://img.shields.io/badge/slee4736@uni.sydney.edu.au-D14836?style=flat-square&logo=outlook&logoColor=white)](mailto:slee4736@uni.sydney.edu.au)
 
 ### My GitHub Stats
 
