@@ -15,11 +15,14 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@latest
+      # Fork of yoshi389111/github-profile-3d-contrib adding the HEIGHT_SCALE
+      # env var (lower = taller blocks). Pinned to commit 25a61c4.
+      - uses: smyeong123/github-profile-3d-contrib@25a61c428c648989654b3b69047c1448c902fe59
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           MAX_REPOS: 20
+          HEIGHT_SCALE: 3
       - name: Commit & Push generated calendar
         run: |
           git config user.name "github-actions[bot]"
