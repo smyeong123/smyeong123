@@ -1,4 +1,14 @@
 # Hi, I'm Sangmyeong [Scott] Lee
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="./github-metrics.svg" alt="GitHub metrics"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
+    </td>
+  </tr>
+</table>
 
 ## Tech Stack
 
@@ -60,13 +70,4 @@
     ㄴ 2022.07 ~ 2022.11: Member at SUDATA (Sydney University Data Society)
 ```
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="./github-metrics.svg" alt="GitHub metrics"/>
-    </td>
-    <td width="50%" align="center">
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution calendar"/>
-    </td>
-  </tr>
-</table>
+
