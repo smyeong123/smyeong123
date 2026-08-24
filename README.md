@@ -60,6 +60,7 @@
 ```yaml
 2025.08 ~ Present: Junior Researcher at PLANTO Business Consulting, Korea
     Developed FSS-compliant Accountability Management System at:
+    ㄴ 2026.07 ~ Present: Kyobo Lifeplanet Life Insurance & KT Asset Management
     ㄴ 2026.04 ~ 2026.06: KORAMCO REITs Management and Trust & KORAMCO Asset Management
     ㄴ 2025.12 ~ 2026.04: Kyobo Life Insurance
     ㄴ 2025.09 ~ 2025.12: NH NongHyup Life Insurance
